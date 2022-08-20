@@ -1,4 +1,4 @@
-# randomstuff
+<h1 align="center">random stuff</h1>
 
 - Blog:
   - [Japan Dev: 2022 Software Developer Salaries in Japan](https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide)
