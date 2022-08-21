@@ -7,3 +7,7 @@
 - Draw/Note:
   - [Writebox](https://write-box.appspot.com/)
   - [tldraw](https://www.tldraw.com/)
+  
+  
+- Terminal:
+  - [Textualize/rich-cli](https://github.com/Textualize/rich-cli): Fancy Output
