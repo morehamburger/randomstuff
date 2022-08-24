@@ -11,3 +11,6 @@
   
 - Terminal:
   - [Textualize/rich-cli](https://github.com/Textualize/rich-cli): Fancy Output
+  
+- Nuxt:
+  - [Nuxt3-Todo-example](https://github.com/Eckhardt-D/nuxt3-todo): https://www.youtube.com/watch?v=McZWm6Jhk4o
