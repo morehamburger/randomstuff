@@ -16,7 +16,7 @@
   - [Nuxt3-Todo-example](https://github.com/Eckhardt-D/nuxt3-todo): https://www.youtube.com/watch?v=McZWm6Jhk4o
   
   
-- Deploy & Host(Free / Low Cost):
+- Deploy&Host(Free/Low Cost):
   - Frontend:
       - [Vercel](https://vercel.com/pricing)
       - [Cloudflare Pages](https://pages.cloudflare.com/)
