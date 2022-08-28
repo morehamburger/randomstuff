@@ -33,6 +33,7 @@
       - [Cyclic](https://app.cyclic.sh/#/): Node.js
       - [Pythonanywhere](https://www.pythonanywhere.com/)
       - [koyeb](https://twitter.com/gokoyeb)
+      - [Heroku](https://www.heroku.com/): 2022 no free tier
 
   - K8s:
       - [Devtron](https://docs.devtron.ai/)
