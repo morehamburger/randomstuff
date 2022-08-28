@@ -31,7 +31,7 @@
       - [Firebase](https://firebase.google.com/)
       - [Deta.sh](https://www.deta.sh/)
       - [Cyclic](https://app.cyclic.sh/#/): Node.js
-      - [Pythonanywhere](https://www.pythonanywhere.com/)
+      - [Pythonanywhere](https://www.pythonanywhere.com/): Python
       - [koyeb](https://twitter.com/gokoyeb)
       - [Heroku](https://www.heroku.com/): 2022 no free tier
 
