@@ -14,3 +14,33 @@
   
 - Nuxt:
   - [Nuxt3-Todo-example](https://github.com/Eckhardt-D/nuxt3-todo): https://www.youtube.com/watch?v=McZWm6Jhk4o
+  
+  
+- Deploy & Host(Free / Low Cost):
+  - Frontend:
+      - [Vercel](https://vercel.com/pricing)
+      - [Cloudflare Pages](https://pages.cloudflare.com/)
+      - [Netlify](https://www.netlify.com/)
+      - [GitHub Pages](https://pages.github.com/)
+      - [Spheron](https://spheron.network/)
+
+  - Backend option:
+      - [Fly.io](https://twitter.com/flydotio)
+      - [Render](https://twitter.com/render)
+      - [Railway](https://railway.app/)
+      - [Firebase](https://firebase.google.com/)
+      - [Deta.sh](https://www.deta.sh/)
+      - [Cyclic](https://app.cyclic.sh/#/): Node.js
+      - [Pythonanywhere](https://www.pythonanywhere.com/)
+      - [koyeb](https://twitter.com/gokoyeb)
+
+  - K8s:
+      - [Devtron](https://docs.devtron.ai/)
+      - [Okteto](https://www.okteto.com/)
+      - [CIVO](https://www.civo.com/pricing): not free
+
+  - Others:
+      - [harperdbio](https://twitter.com/harperdbio)
+      - [Dokku](https://github.com/dokku/dokku)
+      - [coolify](https://github.com/coollabsio/coolify)
+      - [Qovery](https://twitter.com/Qovery_)
