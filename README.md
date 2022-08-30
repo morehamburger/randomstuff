@@ -49,5 +49,5 @@
       
 - Inspiration
   - YT:
-    - [McGuffin](https://www.youtube.com/c/McGuffin2017)
-    - [MR. BROTHERS CUT CLUB](https://www.youtube.com/channel/UCGSHIR8a0qYGgIoWSGxtwrA)
+    - [McGuffin](https://www.youtube.com/c/McGuffin2017): JP
+    - [MR. BROTHERS CUT CLUB](https://www.youtube.com/channel/UCGSHIR8a0qYGgIoWSGxtwrA): JP
