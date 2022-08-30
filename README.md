@@ -47,7 +47,7 @@
       - [coolify](https://github.com/coollabsio/coolify)
       - [Qovery](https://twitter.com/Qovery_)
       
-
-- YT:
-  - [McGuffin](https://www.youtube.com/c/McGuffin2017)
-  - [MR. BROTHERS CUT CLUB](https://www.youtube.com/channel/UCGSHIR8a0qYGgIoWSGxtwrA)
+- Inspiration
+  - YT:
+    - [McGuffin](https://www.youtube.com/c/McGuffin2017)
+    - [MR. BROTHERS CUT CLUB](https://www.youtube.com/channel/UCGSHIR8a0qYGgIoWSGxtwrA)
