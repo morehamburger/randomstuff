@@ -51,3 +51,4 @@
   - YT:
     - [McGuffin](https://www.youtube.com/c/McGuffin2017): JP
     - [MR. BROTHERS CUT CLUB](https://www.youtube.com/channel/UCGSHIR8a0qYGgIoWSGxtwrA): JP
+    - [at_every_age - former VALET](https://www.youtube.com/channel/UC6EtW_X-KuqUgKTDsVjkz7Q): JP
